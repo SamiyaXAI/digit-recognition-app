@@ -1,4 +1,4 @@
-# 🖌️ Handwritten Digit Recognition App
+# Handwritten Digit Recognition App
 
 This app lets users draw digits (0-9) on a canvas and predicts the digit using a trained CNN model.
 
