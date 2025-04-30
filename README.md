@@ -15,3 +15,5 @@ pip install -r requirements.txt
 - `train_model.ipynb` - Code for training the model.
 - `mnist_cnn.pth` - Saved trained model.
 - `app.py` - Streamlit web app code.
+
+- 
